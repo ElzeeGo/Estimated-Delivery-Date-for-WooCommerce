@@ -1,9 +1,9 @@
 # Estimated-Delivery-Date-for-WooCommerce
 === Estimated Delivery Date For WooCommerce ===
 
-
 Display estimated delivery date on product, cart, and checkout pages in WooCommerce.
 
+== Description ==
 Contributors: ElzeeGo
 Tags: woocommerce, delivery date, estimated delivery, ecommerce
 Requires at least: 4.5
@@ -12,8 +12,6 @@ Requires PHP: 7.0
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
-== Description ==
 
 The Estimated Delivery Date for WooCommerce plugin allows store owners to provide clearer and more accurate information regarding the delivery date of products. This plugin allows customization of delivery time and allows the display of the estimated delivery date on the product, cart, and checkout pages.
 
