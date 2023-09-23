@@ -42,9 +42,12 @@ Yes, there are three different styles available, and you can choose one from the
 
 == Screenshots ==
 
-1. Settings Page
-2. Display on Product Page
-3. Display on Cart and Checkout Pages
+1. Settings 
+2. Style 1
+3. Style 2
+4. Style 3
+5. Display on Cart 
+6. Display on Checkout
 
 == Changelog ==
 
